@@ -6,8 +6,15 @@
     <description>Recent content on Open Hansard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 18:29:31 -0700</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 22:45:22 -0700</lastBuildDate>
     <atom:link href="https://open-hansard-website.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://open-hansard-website.github.io/about/</link>
+      <pubDate>Fri, 24 May 2024 22:45:22 -0700</pubDate>
+      <guid>https://open-hansard-website.github.io/about/</guid>
+      <description>As a graduate from the University of Toronto with a degree in Computer Engineering and a focus on Artificial Intelligence, Hetav Pandya is deeply passionate about leveraging technology to gain insights into complex real-world phenomena. His project, Open Hansard, represents the culmination of this passion, as it aims to analyze and visualize the debates occurring in the Canadian Parliament, specifically the House of Commons, using state-of-the-art Large Language Models (LLMs), including LLama3 by Meta AI.</description>
+    </item>
     <item>
       <title>Hansard - May 23, 2024</title>
       <link>https://open-hansard-website.github.io/summary/debate-2024-05-23/</link>

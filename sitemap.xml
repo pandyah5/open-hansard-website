@@ -2,10 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://open-hansard-website.github.io/summary/debate-2024-05-23/</loc>
-    <lastmod>2024-05-24T18:29:31-07:00</lastmod>
+    <loc>https://open-hansard-website.github.io/about/</loc>
+    <lastmod>2024-05-24T22:45:22-07:00</lastmod>
   </url><url>
     <loc>https://open-hansard-website.github.io/</loc>
+    <lastmod>2024-05-24T22:45:22-07:00</lastmod>
+  </url><url>
+    <loc>https://open-hansard-website.github.io/summary/debate-2024-05-23/</loc>
     <lastmod>2024-05-24T18:29:31-07:00</lastmod>
   </url><url>
     <loc>https://open-hansard-website.github.io/summary/</loc>
