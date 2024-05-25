@@ -1,339 +1,283 @@
 <!DOCTYPE html>
-<html lang="en" dir="auto">
+<html lang="en-us">
+  <head>
+    <title>Open Hansard</title>
 
-<head>
-	<meta name="generator" content="Hugo 0.123.1"><meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="index, follow">
-<title>Open Hansard</title>
-
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
 <meta name="description" content="">
-<meta name="author" content="">
-<link rel="canonical" href="https://open-hansard-website.github.io/">
-<link crossorigin="anonymous" href="./assets/css/stylesheet.css" rel="preload stylesheet" as="style">
-<link rel="icon" href="https://open-hansard-website.github.io/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="https://open-hansard-website.github.io/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://open-hansard-website.github.io/favicon-32x32.png">
-<link rel="apple-touch-icon" href="https://open-hansard-website.github.io/apple-touch-icon.png">
-<link rel="mask-icon" href="https://open-hansard-website.github.io/safari-pinned-tab.svg">
-<meta name="theme-color" content="#2e2e33">
-<meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" type="application/rss+xml" href="https://open-hansard-website.github.io/index.xml">
-<link rel="alternate" hreflang="en" href="https://open-hansard-website.github.io/">
-<noscript>
-    <style>
-        #theme-toggle,
-        .top-link {
-            display: none;
-        }
+<meta name="generator" content="Hugo 0.123.1">
 
-    </style>
-    <style>
-        @media (prefers-color-scheme: dark) {
-            :root {
-                --theme: rgb(29, 30, 32);
-                --entry: rgb(46, 46, 51);
-                --primary: rgb(218, 218, 219);
-                --secondary: rgb(155, 156, 157);
-                --tertiary: rgb(65, 66, 68);
-                --content: rgb(196, 196, 197);
-                --code-block-bg: rgb(46, 46, 51);
-                --code-bg: rgb(55, 56, 62);
-                --border: rgb(51, 51, 51);
-            }
 
-            .list {
-                background: var(--theme);
-            }
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
 
-            .list:not(.dark)::-webkit-scrollbar-track {
-                background: 0 0;
-            }
 
-            .list:not(.dark)::-webkit-scrollbar-thumb {
-                border-color: var(--theme);
-            }
-        }
+<link rel="stylesheet" href="./css/style.css">
 
-    </style>
-</noscript><meta property="og:title" content="Open Hansard" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://open-hansard-website.github.io/" />
 
-<meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Open Hansard"/>
-<meta name="twitter:description" content=""/>
 
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Open Hansard",
-  "url": "https://open-hansard-website.github.io/",
-  "description": "",
-  "thumbnailUrl": "https://open-hansard-website.github.io/favicon.ico",
-  "sameAs": [
+<link rel="shortcut icon" href="./images/favicon.ico" type="image/x-icon" />
+
+
+
+
+
+
+  
+    <link href="./index.xml" rel="alternate" type="application/rss+xml" title="Open Hansard" />
+    <link href="./index.xml" rel="feed" type="application/rss+xml" title="Open Hansard" />
+  
+
+
+
+  </head>
+
+  <body>
+    <nav class="navigation">
+	
+	<a href="./posts">Archive</a>
+	<a href="./tags">Tags</a>
+	<a href="./about">About</a>
+
+	
+
+	
+</nav>
+
+
+    <main class="main">
       
-  ]
-}
-</script>
-</head>
+<header class="profile">
+    
+        <img class="avatar" alt="avatar" src="./images/avatar.png" />
+    
 
-<body class="list" id="top">
-<script>
-    if (localStorage.getItem("pref-theme") === "dark") {
-        document.body.classList.add('dark');
-    } else if (localStorage.getItem("pref-theme") === "light") {
-        document.body.classList.remove('dark')
-    } else if (window.matchMedia('(prefers-color-scheme: dark)').matches) {
-        document.body.classList.add('dark');
-    }
-
-</script>
-
-<header class="header">
-    <nav class="nav">
-        <div class="logo">
-            <a href="https://open-hansard-website.github.io/" accesskey="h" title="Open Hansard (Alt + H)">Open Hansard</a>
-            <div class="logo-switches">
-                <button id="theme-toggle" accesskey="t" title="(Alt + T)">
-                    <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
-                    </svg>
-                    <svg id="sun" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
-                        fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
-                        stroke-linejoin="round">
-                        <circle cx="12" cy="12" r="5"></circle>
-                        <line x1="12" y1="1" x2="12" y2="3"></line>
-                        <line x1="12" y1="21" x2="12" y2="23"></line>
-                        <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
-                        <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
-                        <line x1="1" y1="12" x2="3" y2="12"></line>
-                        <line x1="21" y1="12" x2="23" y2="12"></line>
-                        <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
-                        <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
-                    </svg>
-                </button>
-            </div>
-        </div>
-        <ul id="menu">
-        </ul>
-    </nav>
+    <h1>Open Hansard</h1>
+    
+    
 </header>
-<main class="main"> 
 
-<article class="first-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 23
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Today, the parliament discussed various issues related to justice, disability support, and victim’s rights. The government has invested heavily in a nationwide disability program, providing additional support for individuals receiving care and enhancing opportunities for caregivers.
-The Minister of Justice and Attorney General of Canada, Arif Virani, was questioned about repeat offenders who break into houses to steal vehicles. While the minister refused to answer questions directly, he emphasized the government’s efforts to strengthen the bail system and address auto theft....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-24 18:29:31 -0700 PDT'>May 24, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 23" href="https://open-hansard-website.github.io/summary/debate-2024-05-23/"></a>
-</article>
+<div id="list-page">
+    
+    
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-23/'>Hansard 2024 05 23</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-24 18:29:31 -0700 PDT">May 24, 2024</time>  
+            </div>
+          </div>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 22
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Today, the parliament discussed the need to verify the claim that 88% of natural health products (NHPs) are substandard or misleadingly labelled. The approach used by Health Canada is flawed, and a randomized approach would be preferable. Overall, the key points are that Health Canada has failed in its duty to ensure the safety of NHPs, and a more effective approach is needed.
-The government wants to ensure that NHPs can be used safely and are not the subject of false claims....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-22 19:53:18 -0700 PDT'>May 22, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 22" href="https://open-hansard-website.github.io/summary/debate-2024-05-22/"></a>
-</article>
+          
+              <div class="summary">Today, the parliament discussed various issues related to justice, disability support, and victim’s rights. The government has invested heavily in a nationwide disability program, providing additional support for individuals receiving care and enhancing opportunities for caregivers.
+The Minister of Justice and Attorney General of Canada, Arif Virani, was questioned about repeat offenders who break into houses to steal vehicles. While the minister refused to answer questions directly, he emphasized the government’s efforts to strengthen the bail system and address auto theft.</div>
+          
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 10
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Today, the parliament discussed the government’s efforts to prioritize partnerships with indigenous communities in mineral resource development, promoting inclusive growth and sustainable practices. This initiative is part of a broader strategy to drive economic growth while ensuring that the benefits are shared equitably among all Canadians.
-In related news, Canada’s economy added approximately 90,000 jobs in a single month, the most robust job creation since January 2023. The unemployment rate remained constant at 6....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-10 19:53:18 -0700 PDT'>May 10, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 10" href="https://open-hansard-website.github.io/summary/debate-2024-05-10/"></a>
-</article>
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-22/'>Hansard 2024 05 22</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-22 19:53:18 -0700 PDT">May 22, 2024</time>  
+            </div>
+          </div>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 21
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>The Canadian parliament recently discussed various initiatives aimed at stimulating the economy, creating jobs, and improving housing affordability. Some key measures announced by the government include:
-A Housing Accelerator Fund to speed up the process of building more homes Removing Goods and Services Tax (GST) from purpose-built rentals Changing Capital Cost Allowance to make building more feasible Introducing a housing accelerator fund to increase density Farmers and Indigenous Communities Need Support...</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-10 19:53:18 -0700 PDT'>May 10, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 21" href="https://open-hansard-website.github.io/summary/debate-2024-05-21/"></a>
-</article>
+          
+              <div class="summary">Today, the parliament discussed the need to verify the claim that 88% of natural health products (NHPs) are substandard or misleadingly labelled. The approach used by Health Canada is flawed, and a randomized approach would be preferable. Overall, the key points are that Health Canada has failed in its duty to ensure the safety of NHPs, and a more effective approach is needed.
+The government wants to ensure that NHPs can be used safely and are not the subject of false claims.</div>
+          
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 09
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>The Canadian parliament has been debating several key issues, including housing affordability, energy policy, and economic management. In a recent session, MPs discussed Bill C-59, which aims to strengthen consumer protections and environmental safeguards in the competition bill.
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-10/'>Hansard 2024 05 10</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-10 19:53:18 -0700 PDT">May 10, 2024</time>  
+            </div>
+          </div>
+
+          
+              <div class="summary">Today, the parliament discussed the government’s efforts to prioritize partnerships with indigenous communities in mineral resource development, promoting inclusive growth and sustainable practices. This initiative is part of a broader strategy to drive economic growth while ensuring that the benefits are shared equitably among all Canadians.
+In related news, Canada’s economy added approximately 90,000 jobs in a single month, the most robust job creation since January 2023. The unemployment rate remained constant at 6.</div>
+          
+
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-21/'>Hansard 2024 05 21</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-10 19:53:18 -0700 PDT">May 10, 2024</time>  
+            </div>
+          </div>
+
+          
+              <div class="summary">The Canadian parliament recently discussed various initiatives aimed at stimulating the economy, creating jobs, and improving housing affordability. Some key measures announced by the government include:
+A Housing Accelerator Fund to speed up the process of building more homes Removing Goods and Services Tax (GST) from purpose-built rentals Changing Capital Cost Allowance to make building more feasible Introducing a housing accelerator fund to increase density Farmers and Indigenous Communities Need Support</div>
+          
+
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-09/'>Hansard 2024 05 09</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-09 19:53:18 -0700 PDT">May 9, 2024</time>  
+            </div>
+          </div>
+
+          
+              <div class="summary">The Canadian parliament has been debating several key issues, including housing affordability, energy policy, and economic management. In a recent session, MPs discussed Bill C-59, which aims to strengthen consumer protections and environmental safeguards in the competition bill.
 Housing Affordability Crisis
-One of the most pressing issues facing Canadians is the affordable rentals crisis. The Minister of Housing, Infrastructure and Communities, Sean Fraser, acknowledged that housing costs have doubled since 2018, making it difficult for many people to find a place to live....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-09 19:53:18 -0700 PDT'>May 9, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 09" href="https://open-hansard-website.github.io/summary/debate-2024-05-09/"></a>
-</article>
+One of the most pressing issues facing Canadians is the affordable rentals crisis. The Minister of Housing, Infrastructure and Communities, Sean Fraser, acknowledged that housing costs have doubled since 2018, making it difficult for many people to find a place to live.</div>
+          
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 08
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Today, the parliament talked about the importance of addressing basic needs for all Canadians. The Liberal government has proposed an additional $200 per month to cover basic necessities, but critics argue that this amount is insufficient and that a universal basic income (UBI) would be more effective.
-In fact, a UBI pilot project in Hamilton has shown promising results, with participants receiving a modest $17,000 per year. This increase led to improved dignity, education opportunities, and reduced stress among the recipients....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-08 19:53:18 -0700 PDT'>May 8, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 08" href="https://open-hansard-website.github.io/summary/debate-2024-05-08/"></a>
-</article>
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-08/'>Hansard 2024 05 08</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-08 19:53:18 -0700 PDT">May 8, 2024</time>  
+            </div>
+          </div>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 07
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Today, the parliament discussed several pressing issues affecting Canadians. One topic of concern is the national debt, which has increased to $57 billion due to the government’s spending habits. This inflationary pressure has driven up prices and interest rates, ultimately affecting average Canadians more than politicians themselves.
-On a more positive note, the budget speech highlighted several initiatives aimed at supporting Islanders, including a dental care program, investments in housing, and tax changes benefiting students and seniors....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-07 19:53:18 -0700 PDT'>May 7, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 07" href="https://open-hansard-website.github.io/summary/debate-2024-05-07/"></a>
-</article>
+          
+              <div class="summary">Today, the parliament talked about the importance of addressing basic needs for all Canadians. The Liberal government has proposed an additional $200 per month to cover basic necessities, but critics argue that this amount is insufficient and that a universal basic income (UBI) would be more effective.
+In fact, a UBI pilot project in Hamilton has shown promising results, with participants receiving a modest $17,000 per year. This increase led to improved dignity, education opportunities, and reduced stress among the recipients.</div>
+          
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 06
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Today, Parliament discussed various pressing issues, including pharmacare, housing, and foreign interference in elections.
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-07/'>Hansard 2024 05 07</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-07 19:53:18 -0700 PDT">May 7, 2024</time>  
+            </div>
+          </div>
+
+          
+              <div class="summary">Today, the parliament discussed several pressing issues affecting Canadians. One topic of concern is the national debt, which has increased to $57 billion due to the government’s spending habits. This inflationary pressure has driven up prices and interest rates, ultimately affecting average Canadians more than politicians themselves.
+On a more positive note, the budget speech highlighted several initiatives aimed at supporting Islanders, including a dental care program, investments in housing, and tax changes benefiting students and seniors.</div>
+          
+
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-06/'>Hansard 2024 05 06</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-06 19:53:18 -0700 PDT">May 6, 2024</time>  
+            </div>
+          </div>
+
+          
+              <div class="summary">Today, Parliament discussed various pressing issues, including pharmacare, housing, and foreign interference in elections.
 The Bloc Quebecois was criticized for supporting the Liberal government’s spending, which is seen as wasteful and not benefiting Canadians. Meanwhile, the opposition parties were accused of being opposed to the federal government providing contraceptives or diabetes medications without understanding the context and benefits of pharmacare.
-The Canadian Dental Association (CDA) was established to address gaps in the country’s pharmaceutical system, building on existing work streams such as improving prescribing and use of medications....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-06 19:53:18 -0700 PDT'>May 6, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 06" href="https://open-hansard-website.github.io/summary/debate-2024-05-06/"></a>
-</article>
+The Canadian Dental Association (CDA) was established to address gaps in the country’s pharmaceutical system, building on existing work streams such as improving prescribing and use of medications.</div>
+          
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 03
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>A heated debate erupted in Canada’s parliament recently as the Leader of the Government in the House, Steven MacKinnon, faced questions about the government’s plan to allegedly “rip up” fundamental rights and freedoms of Canadians. When asked which specific rights would be affected, MacKinnon refused to specify, stating that the government has not clearly spoken on this issue.
-The debate came amidst discussions on various topics, including emergency business account loans, small businesses, food banks, and seniors’ benefits....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-03 19:40:35 -0700 PDT'>May 3, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 03" href="https://open-hansard-website.github.io/summary/debate-2024-05-03/"></a>
-</article>
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-03/'>Hansard 2024 05 03</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-03 19:40:35 -0700 PDT">May 3, 2024</time>  
+            </div>
+          </div>
 
-<article class="post-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">Hansard 2024 05 02
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Today, the parliament debated the Canada Border Services Agency (CBSA) bill, with critics arguing that it will allow fraudulent serial numbers to go undetected, contributing to the surge in car thefts across the country. The Bloc Quebecois pointed out that Longueuil has seen a significant increase in auto thefts and suggested studying this issue further.
-The opposition party criticized the Liberal government’s handling of motor vehicle thefts, citing a lack of accountability within the justice system....</p>
-  </div>
-  <footer class="entry-footer"><span title='2024-05-02 19:18:50 -0700 PDT'>May 2, 2024</span></footer>
-  <a class="entry-link" aria-label="post link to Hansard 2024 05 02" href="https://open-hansard-website.github.io/summary/debate-2024-05-02/"></a>
-</article>
-<footer class="page-footer">
-  <nav class="pagination">
-    <a class="next" href="https://open-hansard-website.github.io/page/2/">Next&nbsp;&nbsp;»
-    </a>
-  </nav>
-</footer>
+          
+              <div class="summary">A heated debate erupted in Canada’s parliament recently as the Leader of the Government in the House, Steven MacKinnon, faced questions about the government’s plan to allegedly “rip up” fundamental rights and freedoms of Canadians. When asked which specific rights would be affected, MacKinnon refused to specify, stating that the government has not clearly spoken on this issue.
+The debate came amidst discussions on various topics, including emergency business account loans, small businesses, food banks, and seniors’ benefits.</div>
+          
+
+        </section>
+    
+        
+        
+        <section class="item">
+          <div>
+            <h1 class="title"><a href='./summary/debate-2024-05-02/'>Hansard 2024 05 02</a></h1>
+            <div class ="date">
+                <time datetime="2024-05-02 19:18:50 -0700 PDT">May 2, 2024</time>  
+            </div>
+          </div>
+
+          
+              <div class="summary">Today, the parliament debated the Canada Border Services Agency (CBSA) bill, with critics arguing that it will allow fraudulent serial numbers to go undetected, contributing to the surge in car thefts across the country. The Bloc Quebecois pointed out that Longueuil has seen a significant increase in auto thefts and suggested studying this issue further.
+The opposition party criticized the Liberal government’s handling of motor vehicle thefts, citing a lack of accountability within the justice system.</div>
+          
+
+        </section>
+    
+
+    
+        <div class="pagination">
+          
+          
+          
+              <span class="next">
+                  <a href="./page/2/">
+                      Older posts <span class="arrow">→</span>
+                  </a>
+              </span>
+          
+        </div>
+    
+
+
+</div>
+
     </main>
     
-<footer class="footer">
-        <span>&copy; 2024 <a href="https://open-hansard-website.github.io/">Open Hansard</a></span> · 
+    <footer id="footer">
+    
 
-    <span>
-        Powered by
-        <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &
-        <a href="https://github.com/adityatelange/hugo-PaperMod/" rel="noopener" target="_blank">PaperMod</a>
-    </span>
+    <div class="copyright">
+    
+       © Copyright 
+       2024 
+       <span class="split">
+        <svg fill="#bbbbbb" width="15" height="15" version="1.1" id="heart-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
+  <path d="M13.91,6.75c-1.17,2.25-4.3,5.31-6.07,6.94c-0.1903,0.1718-0.4797,0.1718-0.67,0C5.39,12.06,2.26,9,1.09,6.75&#xA;&#x9;C-1.48,1.8,5-1.5,7.5,3.45C10-1.5,16.48,1.8,13.91,6.75z"/>
+</svg>
+       </span>
+       
+    
+    </div>
+
+    
+      <div class="powerby">
+        Powered by <a href='http://www.gohugo.io/'>Hugo</a> Theme By <a href='https://github.com/nodejh/hugo-theme-mini'>nodejh</a>
+      </div>
+    
 </footer>
-<a href="#top" aria-label="go to top" title="Go to Top (Alt + G)" class="top-link" id="top-link" accesskey="g">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6" fill="currentColor">
-        <path d="M12 6H0l6-6z" />
-    </svg>
-</a>
 
-<script>
-    let menu = document.getElementById('menu')
-    if (menu) {
-        menu.scrollLeft = localStorage.getItem("menu-scroll-position");
-        menu.onscroll = function () {
-            localStorage.setItem("menu-scroll-position", menu.scrollLeft);
-        }
-    }
 
-    document.querySelectorAll('a[href^="#"]').forEach(anchor => {
-        anchor.addEventListener("click", function (e) {
-            e.preventDefault();
-            var id = this.getAttribute("href").substr(1);
-            if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView({
-                    behavior: "smooth"
-                });
-            } else {
-                document.querySelector(`[id='${decodeURIComponent(id)}']`).scrollIntoView();
-            }
-            if (id === "top") {
-                history.replaceState(null, null, " ");
-            } else {
-                history.pushState(null, null, `#${id}`);
-            }
-        });
-    });
 
-</script>
-<script>
-    var mybutton = document.getElementById("top-link");
-    window.onscroll = function () {
-        if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
-            mybutton.style.visibility = "visible";
-            mybutton.style.opacity = "1";
-        } else {
-            mybutton.style.visibility = "hidden";
-            mybutton.style.opacity = "0";
-        }
-    };
-
-</script>
-<script>
-    document.getElementById("theme-toggle").addEventListener("click", () => {
-        if (document.body.className.includes("dark")) {
-            document.body.classList.remove('dark');
-            localStorage.setItem("pref-theme", 'light');
-        } else {
-            document.body.classList.add('dark');
-            localStorage.setItem("pref-theme", 'dark');
-        }
-    })
-
-</script>
-</body>
-
+  </body>
 </html>
