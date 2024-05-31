@@ -2,59 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://open-hansard-website.github.io/posts/hansard---may-28-2024/</loc>
+    <loc>http://localhost:1313/posts/hansard-summary-for-may-29-2024/</loc>
+    <lastmod>2024-05-30T19:09:08-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-05-30T19:09:08-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2024-05-30T19:09:08-07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hansard---may-28-2024/</loc>
     <lastmod>2024-05-29T13:58:30-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/</loc>
-    <lastmod>2024-05-29T13:58:30-07:00</lastmod>
-  </url><url>
-    <loc>https://open-hansard-website.github.io/posts/</loc>
-    <lastmod>2024-05-29T13:58:30-07:00</lastmod>
-  </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-27/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-27/</loc>
     <lastmod>2024-05-27T13:29:21-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-25/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-25/</loc>
     <lastmod>2024-05-25T17:29:04-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2024-05-24T22:45:22-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-23/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-23/</loc>
     <lastmod>2024-05-24T18:29:31-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-22/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-22/</loc>
     <lastmod>2024-05-22T19:53:18-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-10/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-10/</loc>
     <lastmod>2024-05-10T19:53:18-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-21/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-21/</loc>
     <lastmod>2024-05-10T19:53:18-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-09/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-09/</loc>
     <lastmod>2024-05-09T19:53:18-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-08/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-08/</loc>
     <lastmod>2024-05-08T19:53:18-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-07/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-07/</loc>
     <lastmod>2024-05-07T19:53:18-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-06/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-06/</loc>
     <lastmod>2024-05-06T19:53:18-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-03/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-03/</loc>
     <lastmod>2024-05-03T19:40:35-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-02/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-02/</loc>
     <lastmod>2024-05-02T19:18:50-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/posts/debate-2024-05-01/</loc>
+    <loc>http://localhost:1313/posts/debate-2024-05-01/</loc>
     <lastmod>2024-05-01T19:18:50-07:00</lastmod>
   </url><url>
-    <loc>https://open-hansard-website.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://open-hansard-website.github.io/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
