@@ -2,115 +2,150 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Open Hansard</title>
-    <link>http://localhost:1313/</link>
+    <link>https://open-hansard-website.github.io/</link>
     <description>Recent content on Open Hansard</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 30 May 2024 19:09:08 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 17:36:08 -0700</lastBuildDate>
+    <atom:link href="https://open-hansard-website.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hansard Summary for June 05, 2024</title>
+      <link>https://open-hansard-website.github.io/posts/hansard-summary-for-june-05-2024/</link>
+      <pubDate>Wed, 05 Jun 2024 17:36:08 -0700</pubDate>
+      <guid>https://open-hansard-website.github.io/posts/hansard-summary-for-june-05-2024/</guid>
+      <description>Today, parliament talked about the unacceptable fact that many Indigenous communities still don&amp;rsquo;t have access to safe drinking water. The current government has failed to deliver concrete, sustainable solutions to address the crisis of inadequate water infrastructure and services in Indigenous communities.&#xA;A new approach is needed, including a comprehensive plan that addresses both immediate and long-term needs, as well as a commitment to working closely with Indigenous communities. Each community has unique challenges, circumstances, and needs, so solutions should be led by Indigenous people themselves, prioritizing their leadership and knowledge.</description>
+    </item>
+    <item>
+      <title>Hansard Summary for June 04, 2024</title>
+      <link>https://open-hansard-website.github.io/posts/hansard-summary-for-june-04-2024/</link>
+      <pubDate>Tue, 04 Jun 2024 17:22:01 -0700</pubDate>
+      <guid>https://open-hansard-website.github.io/posts/hansard-summary-for-june-04-2024/</guid>
+      <description>Parliament Discusses Critical Issues&#xA;Today, parliament debated several crucial bills aimed at addressing systemic issues affecting various communities. One bill, C-332, focuses on combating gender-based violence and intimate partner violence, which has increased during the pandemic. The legislation aims to provide a robust legal definition of coercive control and ensure judges consider the vulnerable party in situations involving intimate partner violence.&#xA;Coercive Control: A Pattern of Behavior&#xA;Coercive control includes physical, sexual, emotional abuse, financial control, threats to the partner or children, and isolation.</description>
+    </item>
+    <item>
+      <title>Hansard Summary for June 03, 2024</title>
+      <link>https://open-hansard-website.github.io/posts/hansard-summary-for-june-03-2024/</link>
+      <pubDate>Mon, 03 Jun 2024 16:36:54 -0700</pubDate>
+      <guid>https://open-hansard-website.github.io/posts/hansard-summary-for-june-03-2024/</guid>
+      <description>National Pharmacare Program Prioritized Over Provincial Programs&#xA;In a recent parliament debate, lawmakers focused on providing financial support to vulnerable Canadians, particularly those living in poverty or struggling to access essential medications. The debate centered around a national pharmacare program, with some arguing that it would save money and provide better health outcomes for Canadians.&#xA;Opposition Points&#xA;The opposition highlighted ongoing deficits and growing inflation as significant concerns, citing the impact on Canadians&amp;rsquo; daily lives.</description>
+    </item>
+    <item>
+      <title>Hansard Summary for May 31, 2024</title>
+      <link>https://open-hansard-website.github.io/posts/hansard-summary-for-may-31-2024/</link>
+      <pubDate>Fri, 31 May 2024 16:20:18 -0700</pubDate>
+      <guid>https://open-hansard-website.github.io/posts/hansard-summary-for-may-31-2024/</guid>
+      <description>Parliament Discusses Election Reform and Care Program&#xA;The Quebec parliament recently discussed two important topics: receiving care since May 1st and election reform. About 60% of dental care providers in Quebec have signed up for a new program that provides care to patients.&#xA;However, the Conservative leader announced that the program does not exist, which was met with criticism from the government. The government also made historic investments in the Official Languages Act and the action plan, doubling investments and continuing to support French language and minority languages in Quebec and Canada.</description>
+    </item>
     <item>
       <title>Hansard Summary for May 29, 2024</title>
-      <link>http://localhost:1313/posts/hansard-summary-for-may-29-2024/</link>
+      <link>https://open-hansard-website.github.io/posts/hansard-summary-for-may-29-2024/</link>
       <pubDate>Thu, 30 May 2024 19:09:08 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hansard-summary-for-may-29-2024/</guid>
+      <guid>https://open-hansard-website.github.io/posts/hansard-summary-for-may-29-2024/</guid>
       <description>Public Healthcare System Critical for Ensuring Equal Access to Healthcare&#xA;In today&amp;rsquo;s parliament, the importance of public healthcare was highlighted as critical for ensuring equal access to healthcare and preventing a two-tiered system where the private sector targets profitable care and leaves the public system with costly care. Conservatives have criticized the government&amp;rsquo;s actions without proposing concrete solutions, an approach that has been tried before with disastrous results.&#xA;Addressing the Opioid Crisis</description>
     </item>
     <item>
+      <title>Hansard Summary for May 30, 2024</title>
+      <link>https://open-hansard-website.github.io/posts/hansard-summary-for-may-30-2024/</link>
+      <pubDate>Thu, 30 May 2024 15:41:22 -0700</pubDate>
+      <guid>https://open-hansard-website.github.io/posts/hansard-summary-for-may-30-2024/</guid>
+      <description>Parliament Debates National Pharmacare Program&#xA;Today, parliamentarians discussed a national pharmacare program aimed at improving health equity and affordability for Canadians. The opposition claims that the government is trying to mislead Canadians by presenting false information about the benefits of their proposal.&#xA;The speaker in support of Bill C-59 emphasized the need for increased transparency and access to information for parliamentarians. They shared their personal experience with digital surveillance by Chinese intelligence officers (APT31) and argued that parliamentarians need access to sensitive security information to do their jobs effectively.</description>
+    </item>
+    <item>
       <title>Hansard Summary for May 28, 2024</title>
-      <link>http://localhost:1313/posts/hansard---may-28-2024/</link>
+      <link>https://open-hansard-website.github.io/posts/hansard---may-28-2024/</link>
       <pubDate>Wed, 29 May 2024 13:58:30 -0700</pubDate>
-      <guid>http://localhost:1313/posts/hansard---may-28-2024/</guid>
+      <guid>https://open-hansard-website.github.io/posts/hansard---may-28-2024/</guid>
       <description>Today the parliament talked about whether a mistake by the Liberal Party should be allowed to thwart the will of the House. MPs argued that apologies are not enough to fix the problem and restore confidence in the institution. The Speaker&amp;rsquo;s impartiality was questioned, and some MPs expressed concern about the impact on the institution&amp;rsquo;s credibility.&#xA;The debate centered around the Conservative Party&amp;rsquo;s behavior in the House of Commons, with the NDP accusing them of being partisan and undermining institutions.</description>
     </item>
     <item>
       <title>Hansard Summary for May 27, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-27/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-27/</link>
       <pubDate>Mon, 27 May 2024 13:29:21 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-27/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-27/</guid>
       <description>Liberals&amp;rsquo; Economic Record Praised by Greens&#xA;Today, parliament discussed the government&amp;rsquo;s handling of the economy, with the Liberal party being commended for creating opportunities for jobs and economic growth. The government has invested in green initiatives, such as cleaning up orphaned wells, and signed more trade agreements than any other Canadian government.&#xA;Military Readiness Declines&#xA;However, the military is not fully trained or ready for deployment due to budget cuts and a lack of investment in training facilities.</description>
     </item>
     <item>
       <title>Hansard Summary for May 24, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-25/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-25/</link>
       <pubDate>Sat, 25 May 2024 17:29:04 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-25/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-25/</guid>
       <description>Today the parliament talked about labor legislation, which has gained all-party support. The speaker commended the unusual occurrence of bipartisan agreement on an issue that could positively impact Canada&amp;rsquo;s economy and society. Multiple provinces have supported the bill, aiming to promote labor harmony.&#xA;Other MPs spoke in favor of the bill, highlighting Canada&amp;rsquo;s economic performance and expressing hope for continued growth and relief from high interest rates. An MP noted that the Bloc Quebecois wanted the bill to take effect immediately after royal assent, but their proposed amendments were rejected by all parties.</description>
     </item>
     <item>
       <title>Hansard Summary for May 23, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-23/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-23/</link>
       <pubDate>Fri, 24 May 2024 18:29:31 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-23/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-23/</guid>
       <description>Today, the parliament discussed various issues related to justice, disability support, and victim&amp;rsquo;s rights. The government has invested heavily in a nationwide disability program, providing additional support for individuals receiving care and enhancing opportunities for caregivers.&#xA;The Minister of Justice and Attorney General of Canada, Arif Virani, was questioned about repeat offenders who break into houses to steal vehicles. While the minister refused to answer questions directly, he emphasized the government&amp;rsquo;s efforts to strengthen the bail system and address auto theft.</description>
     </item>
     <item>
       <title>Hansard Summary for May 22, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-22/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-22/</link>
       <pubDate>Wed, 22 May 2024 19:53:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-22/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-22/</guid>
       <description>Today, the parliament discussed the need to verify the claim that 88% of natural health products (NHPs) are substandard or misleadingly labelled. The approach used by Health Canada is flawed, and a randomized approach would be preferable. Overall, the key points are that Health Canada has failed in its duty to ensure the safety of NHPs, and a more effective approach is needed.&#xA;The government wants to ensure that NHPs can be used safely and are not the subject of false claims.</description>
     </item>
     <item>
       <title>Hansard Summary for May 10, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-10/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-10/</link>
       <pubDate>Fri, 10 May 2024 19:53:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-10/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-10/</guid>
       <description>Today, the parliament discussed the government&amp;rsquo;s efforts to prioritize partnerships with indigenous communities in mineral resource development, promoting inclusive growth and sustainable practices. This initiative is part of a broader strategy to drive economic growth while ensuring that the benefits are shared equitably among all Canadians.&#xA;In related news, Canada&amp;rsquo;s economy added approximately 90,000 jobs in a single month, the most robust job creation since January 2023. The unemployment rate remained constant at 6.</description>
     </item>
     <item>
       <title>Hansard Summary for May 21, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-21/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-21/</link>
       <pubDate>Fri, 10 May 2024 19:53:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-21/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-21/</guid>
       <description>The Canadian parliament recently discussed various initiatives aimed at stimulating the economy, creating jobs, and improving housing affordability. Some key measures announced by the government include:&#xA;A Housing Accelerator Fund to speed up the process of building more homes Removing Goods and Services Tax (GST) from purpose-built rentals Changing Capital Cost Allowance to make building more feasible Introducing a housing accelerator fund to increase density Farmers and Indigenous Communities Need Support</description>
     </item>
     <item>
       <title>Hansard Summary for May 9, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-09/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-09/</link>
       <pubDate>Thu, 09 May 2024 19:53:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-09/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-09/</guid>
       <description>The Canadian parliament has been debating several key issues, including housing affordability, energy policy, and economic management. In a recent session, MPs discussed Bill C-59, which aims to strengthen consumer protections and environmental safeguards in the competition bill.&#xA;Housing Affordability Crisis&#xA;One of the most pressing issues facing Canadians is the affordable rentals crisis. The Minister of Housing, Infrastructure and Communities, Sean Fraser, acknowledged that housing costs have doubled since 2018, making it difficult for many people to find a place to live.</description>
     </item>
     <item>
       <title>Hansard Summary for May 8, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-08/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-08/</link>
       <pubDate>Wed, 08 May 2024 19:53:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-08/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-08/</guid>
       <description>Today, the parliament talked about the importance of addressing basic needs for all Canadians. The Liberal government has proposed an additional $200 per month to cover basic necessities, but critics argue that this amount is insufficient and that a universal basic income (UBI) would be more effective.&#xA;In fact, a UBI pilot project in Hamilton has shown promising results, with participants receiving a modest $17,000 per year. This increase led to improved dignity, education opportunities, and reduced stress among the recipients.</description>
     </item>
     <item>
       <title>Hansard Summary for May 7, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-07/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-07/</link>
       <pubDate>Tue, 07 May 2024 19:53:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-07/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-07/</guid>
       <description>Today, the parliament discussed several pressing issues affecting Canadians. One topic of concern is the national debt, which has increased to $57 billion due to the government&amp;rsquo;s spending habits. This inflationary pressure has driven up prices and interest rates, ultimately affecting average Canadians more than politicians themselves.&#xA;On a more positive note, the budget speech highlighted several initiatives aimed at supporting Islanders, including a dental care program, investments in housing, and tax changes benefiting students and seniors.</description>
     </item>
     <item>
       <title>Hansard Summary for May 6, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-06/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-06/</link>
       <pubDate>Mon, 06 May 2024 19:53:18 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-06/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-06/</guid>
       <description>Today, Parliament discussed various pressing issues, including pharmacare, housing, and foreign interference in elections.&#xA;The Bloc Quebecois was criticized for supporting the Liberal government&amp;rsquo;s spending, which is seen as wasteful and not benefiting Canadians. Meanwhile, the opposition parties were accused of being opposed to the federal government providing contraceptives or diabetes medications without understanding the context and benefits of pharmacare.&#xA;The Canadian Dental Association (CDA) was established to address gaps in the country&amp;rsquo;s pharmaceutical system, building on existing work streams such as improving prescribing and use of medications.</description>
     </item>
     <item>
       <title>Hansard Summary for May 3, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-03/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-03/</link>
       <pubDate>Fri, 03 May 2024 19:40:35 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-03/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-03/</guid>
       <description>A heated debate erupted in Canada&amp;rsquo;s parliament recently as the Leader of the Government in the House, Steven MacKinnon, faced questions about the government&amp;rsquo;s plan to allegedly &amp;ldquo;rip up&amp;rdquo; fundamental rights and freedoms of Canadians. When asked which specific rights would be affected, MacKinnon refused to specify, stating that the government has not clearly spoken on this issue.&#xA;The debate came amidst discussions on various topics, including emergency business account loans, small businesses, food banks, and seniors&amp;rsquo; benefits.</description>
     </item>
     <item>
       <title>Hansard Summary for May 2, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-02/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-02/</link>
       <pubDate>Thu, 02 May 2024 19:18:50 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-02/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-02/</guid>
       <description>Today, the parliament debated the Canada Border Services Agency (CBSA) bill, with critics arguing that it will allow fraudulent serial numbers to go undetected, contributing to the surge in car thefts across the country. The Bloc Quebecois pointed out that Longueuil has seen a significant increase in auto thefts and suggested studying this issue further.&#xA;The opposition party criticized the Liberal government&amp;rsquo;s handling of motor vehicle thefts, citing a lack of accountability within the justice system.</description>
     </item>
     <item>
       <title>Hansard Summary for May 1, 2024</title>
-      <link>http://localhost:1313/posts/debate-2024-05-01/</link>
+      <link>https://open-hansard-website.github.io/posts/debate-2024-05-01/</link>
       <pubDate>Wed, 01 May 2024 19:18:50 -0700</pubDate>
-      <guid>http://localhost:1313/posts/debate-2024-05-01/</guid>
+      <guid>https://open-hansard-website.github.io/posts/debate-2024-05-01/</guid>
       <description>In a packed day of discussions, the Canadian parliament tackled various pressing issues. One topic that garnered significant attention was the government&amp;rsquo;s approach to drug use. The Conservative Party called for stricter laws and a ban on hard drugs, while others advocated for legalization. Meanwhile, concerns about public safety and health were raised in British Columbia, where hard drugs are openly used in hospitals and coffee shops.&#xA;International Affairs&#xA;The parliament also touched upon international issues.</description>
     </item>
   </channel>
